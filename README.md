@@ -1,2 +1,2 @@
 # Katibe
-A qr-code easy web page builder app
+A qr-code easy webpage builder app
